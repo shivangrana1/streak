@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shivangrana1/streak/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/shivangrana1/streak/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
