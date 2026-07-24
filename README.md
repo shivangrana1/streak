@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivangrana1/streak/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/shivangrana1/streak/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivangrana1/streak/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivangrana1/streak/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivangrana1/streak/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
